@@ -25,13 +25,13 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
     https://www.nngroup.com/articles/ten-usability-heuristics/
 
-    Perguntas: 
+ # Perguntas: 
 
- ### sobre qual requisito não funcional este texto fala?
+ ### Sobre qual requisito não funcional este texto fala?
 
  Sobre o requisito da usabilidade dos usuários com o sistema.
 
- ### qual a importância?
+ ### Qual a importância?
 
 Sua importância é que uma usuário não deve precisar se lembrar das coisas para acessar ao sistema, ele deve ser prático, de fácil reconhecimento e também deve conseguir auxiliar seu usuário para caso entre em um lugar errado consiga sair fácil ou também caso o dê um erro no sistema ele consiga entender o erro sem precisar de detalhes técnicos.
 
