@@ -1,4 +1,4 @@
-## Texto aula 1
+## Atividade 1 - Aula 11/08/2023
 We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
 ### Comentários
@@ -8,19 +8,19 @@ Pelo que entendi do texto é que o engenheiro de software tem que se preocupar a
 O engenheiro de software precisa de dados para se basear em sua decisão, mas como às vezes ele é chamado para tomar decisão de alto risco ele sai de sua zona de conforto e precisa falar algo que pode dar certo no momento e pode funcionar bem a longo prazo, mas ele não tem essa garantia.
 
 
-## Texto aula 2 
+## Atividade 2 - Aula 14/08/2023
 
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 ### Comentários
 
 
+Dar exemplo de 3 trade offs (não funcionais)
 
 
 
 
-
-## Aula 3
+## Atividade 3 - Aula 18/08/2023
 
 
     https://www.nngroup.com/articles/ten-usability-heuristics/
@@ -100,3 +100,13 @@ Ele deve ser feito pensando no usuário. Pensando no que deve ser fácil para el
     Erros: Documentações complexas e que não auxiliam a achar a resposta para o seu problema.
 
     Acertos: Documentação só aparece quando o usuário necessita dela.
+
+    
+## Atividade 4 - Aula 21/08/2023
+
+#### Link de acesso ao slide
+    https://docs.google.com/presentation/d/1GMds68vXowb3h_GFtI3fwKeXJQQJjm7L-wL0BJhIfLI/edit#slide=id.p5
+    
+### Fazer o diagrama em UML de casos de uso com os requisitos funcionais do sistema que será criado.
+![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/729990b2-089e-49d9-8b40-9a297735fab3)
+
