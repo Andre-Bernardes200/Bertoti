@@ -107,6 +107,12 @@ Ele deve ser feito pensando no usuário. Pensando no que deve ser fácil para el
 #### Link de acesso ao slide
     https://docs.google.com/presentation/d/1GMds68vXowb3h_GFtI3fwKeXJQQJjm7L-wL0BJhIfLI/edit#slide=id.p5
     
-### Fazer o diagrama em UML de casos de uso com os requisitos funcionais do sistema que será criado.
+### Fazer o diagrama em UML de casos de uso com os requisitos funcionais do sistema que será criado (Diagrama de casos).
 ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/729990b2-089e-49d9-8b40-9a297735fab3)
+
+## Atividade 5 - Aula 28/08/2023
+
+#### Diagrama de Classes
+![Diagrama de Casos e Classes](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/526f00b7-184b-4697-8130-1dc84ec05be0)
+
 
