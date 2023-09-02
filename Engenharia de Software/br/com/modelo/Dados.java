@@ -31,5 +31,6 @@ public class Dados {
     public double getSaldo(){
         return this.saldo;
     }
+    public double setSaldo(double saldo){ return this.saldo = saldo;}
 
 }
