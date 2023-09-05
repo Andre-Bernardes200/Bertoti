@@ -44,41 +44,38 @@ public class Banco {
     // Método para verificar saldo
     private boolean verificaSaldo(double valor) {
         novoSaldo = dados.getSaldo() - valor;
-        if ((dados.setSaldo(novoSaldo)) < 0){
+        if (novoSaldo < 0){
             return false;
         } else {
+            dados.setSaldo(novoSaldo);
             return true;
         }
     }
     // Método para sacar algo da conta
     public void sacar(double valor){
         if(verificaSaldo(valor)){
-            novoSaldo = dados.getSaldo() - valor;
-            dados.setSaldo(novoSaldo);
             System.out.println("""
-                    Retire seu dinheiro da boca do caixa.
-                    Seu saldo é de %.2f
+                    \nRetire seu dinheiro da boca do caixa.
+                    Seu saldo é de %.2f\n
                     """.formatted( dados.getSaldo()));
         }else{
-            System.out.println("Você está tentando sacar mais do que tem em saldo.");
+            System.out.println("\nVocê está tentando sacar mais do que tem em saldo.\n");
         }
     }
     public void transferir(double valor){
         if (verificaSaldo(valor)){
-            novoSaldo = dados.getSaldo() - valor;
-            dados.setSaldo(novoSaldo);
             System.out.println("""
-                    Transferência efetuada com sucesso.
-                    Seu saldo é de %.2f
+                    \nTransferência efetuada com sucesso.
+                    Seu saldo é de %.2f\n
                     """.formatted( dados.getSaldo()));
         }else{
-            System.out.println("Você está tentando transferir mais do que tem em saldo.");
+            System.out.println("\nVocê está tentando transferir mais do que tem em saldo.\n");
         }
     }
     public void depositar(double valor){
         novoSaldo = dados.getSaldo() + valor;
         System.out.println("""
-                Você depositou %.2f, seu novo saldo é de %.2f
+                Você depositou %.2f, seu novo saldo é de %.2f\n
                 """.formatted(valor,dados.setSaldo(novoSaldo)));
 
     }
@@ -88,7 +85,7 @@ public class Banco {
     }
     public double retiraDinheiroReserva(double valor){
         if(saldoEmergencia - valor < 0 ){
-            System.out.println("Está retirando mais do que tem guardado");
+            System.out.println("\nEstá retirando mais do que tem guardado\n");
             return saldoEmergencia;
         }else{
             saldoEmergencia -= valor;

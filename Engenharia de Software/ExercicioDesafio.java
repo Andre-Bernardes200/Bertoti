@@ -6,49 +6,46 @@ import java.util.Scanner;
 public class ExercicioDesafio {
     public static void main(String[] args){
 
-        Dados dados = new Dados("André Luiz Bernardes de Oliveira","123456","202564",2500);
+        Dados dados = new Dados();
         Banco usuario = new Banco(dados);
         Scanner input = new Scanner(System.in);
         double valor;
+        int escolha = 1;
 
-        usuario.exibirDados();
-        usuario.opcoes();
-
-        System.out.print("Escolha uma opção: ");
-        int escolha = input.nextInt();
-        System.out.println("");
+        dados.entradaDados();
 
         while (escolha != 0){
-            switch (escolha){
-                case 1:
-                    System.out.print("Qual valor deseja sacar: ");
-                    valor = input.nextDouble();
-                    usuario.sacar(valor);
-                    break;
-                case 2:
+            usuario.exibirDados();
+            usuario.opcoes();
+            System.out.print("Escolha uma opção: ");
+            escolha = input.nextInt();
+            System.out.println("");
+
+            if(escolha == 1) {
+                System.out.print("Qual valor deseja sacar: ");
+                valor = input.nextDouble();
+                usuario.sacar(valor);
+            }else if(escolha == 2){
                     System.out.print("Qual valor deseja transferir: ");
                     valor = input.nextDouble();
                     usuario.transferir(valor);
-                    break;
-                case 3:
-                    System.out.print("Qual valor deseja depositar: ");
-                    valor = input.nextDouble();
-                    usuario.depositar(valor);
-                    break;
-                case 4:
-                    System.out.print("Qual valor deseja guardar em sua reserva: ");
-                    valor = input.nextDouble();
-                    usuario.guardaDinheiroReserva(valor);
-                    break;
-                case 5:
+            }else if(escolha == 3) {
+                System.out.print("Qual valor deseja depositar: ");
+                valor = input.nextDouble();
+                usuario.depositar(valor);
+            }else if(escolha == 4) {
+                System.out.print("Qual valor deseja guardar em sua reserva: ");
+                valor = input.nextDouble();
+                usuario.guardaDinheiroReserva(valor);
+            }else if (escolha == 5){
                     System.out.print("Qual valor deseja retirar de sua reserva: ");
                     valor = input.nextDouble();
                     usuario.retiraDinheiroReserva(valor);
-                    break;
+            }else{
+                System.out.println("Opção inválida, tente novamente\n");
             }
         }
-
-
+        System.out.println("Obrigado por utilizar o nosso sistema!!");
     }
 
 
