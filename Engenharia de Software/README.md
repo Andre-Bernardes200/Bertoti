@@ -112,7 +112,11 @@ Ele deve ser feito pensando no usuário. Pensando no que deve ser fácil para el
 
 ## Atividade 5 - Aula 28/08/2023
 
-#### Diagrama de Classes
+#### Diagrama de Classes - 1 Modelo
 ![Diagrama de Casos e Classes](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/526f00b7-184b-4697-8130-1dc84ec05be0)
 
+## Atividade 6 - Aula 01/09/2023
+
+#### Diagrama de Classes - 2 modelo
+![Diagrama de classe 2](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/d3ed5004-3b4b-47ba-81f8-fd9ced32bb05)
 
