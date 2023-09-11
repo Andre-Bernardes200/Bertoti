@@ -120,3 +120,9 @@ Ele deve ser feito pensando no usuário. Pensando no que deve ser fácil para el
 #### Diagrama de Classes - 2 modelo
 ![Diagrama de classe 2](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/d3ed5004-3b4b-47ba-81f8-fd9ced32bb05)
 
+## Atividade 7 - Aula 04/09/2023
+
+#### Diagrama de Classes - 3 modelo
+![Diagrama de classes - Modelo 3](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/b479e2ba-084a-497a-a27e-033cf15c565e)
+
+
