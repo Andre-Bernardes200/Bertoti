@@ -12,35 +12,39 @@ public class Cliente {
     private double saldo;
     private String opcao;
 
+
     // Criando métodos
-    public String setNome(){
-        System.out.print("\nEntre com o seu nome: ");
+    public String criaNome() {
+        System.out.print("Digite o seu nome: ");
         nome = input.nextLine();
         return nome;
     }
-    public int criaAgencia(){
+
+    public int criaAgencia() {
         agencia = (int) (Math.abs(Math.random()) * 10000);
         return agencia;
     }
-    public int criaConta(){
+
+    public int criaConta() {
         conta = (int) (Math.abs(Math.random()) * 1000);
         return conta;
     }
-    public double temSaldo(){
+
+    public double temSaldo() {
         System.out.print("Já quer fazer um depósito em sua conta (s/n): ");
         opcao = input.next();
-        while(opcao.equals("s") && opcao.equals("n")){
+        while (opcao.equals("s") && opcao.equals("n")) {
             System.out.println("Opção inválida, tente novamente");
             System.out.print("Já quer fazer um depósito em sua conta (s/n): ");
             opcao = input.next();
         }
-        if(opcao.equals("s")){
+        if (opcao.equals("s")) {
             System.out.print("Qual valor deseja colocar: ");
             saldo = input.nextDouble();
             return saldo;
-        }else{
+        } else {
             return saldo = 0;
         }
-        }
     }
+}
 

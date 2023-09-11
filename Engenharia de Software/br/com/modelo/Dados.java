@@ -12,17 +12,14 @@ public class Dados {
     private int conta;
     private double saldo;
 
-//    // Criando o construtor
-//    public Dados (String nome,String agencia, String conta, double saldo){
-//        this.nome = nome;
-//        this.agencia = agencia;
-//        this.conta = conta;
-//        this.saldo = saldo;
-//    }
+    // Criando o construtor
+    public Dados () {
+        this.nome = nome;
+    }
 
     // Criando o método
     public void entradaDados(){
-        nome = cliente.setNome();
+        nome = cliente.criaNome();
         agencia = cliente.criaAgencia();
         conta = cliente.criaConta();
         saldo = cliente.temSaldo();
@@ -30,6 +27,9 @@ public class Dados {
 
     public String getNome(){
         return nome;
+    }
+    public String setNome(String nome){
+        return this.nome = nome;
     }
     public int getAgencia(){
         return agencia;

@@ -37,6 +37,7 @@ public class Banco {
                 3 - Depositar
                 4 - Guardar na reserva de emergência
                 5 - Retirar da reserva de emergência
+                6 - Editar nome
                 0 - Sair
                 """);
     }
