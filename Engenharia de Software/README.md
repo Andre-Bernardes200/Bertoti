@@ -44,63 +44,83 @@ Ele deve ser feito pensando no usuário. Pensando no que deve ser fácil para el
   #### Visibilidade do status do sistema:
 
     Erro: Designs muito complexos dependendo da pessoa que está visualizando.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/29d45d43-e77a-454f-8422-1e9031efe252)
 
     Acerto: Bons feedback's com suas respostas apropriadas e também num tempo razoável para o usuário não se irritar.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/8fcd85b1-a30c-401c-af6f-05a89e1a5ff2)
+
 
   #### Correspondência entre o sistema e o mundo real:
 
     Erro: Conceitos que não é familiar a todos os usuários e às vezes é familiar a somente um determinado público alvo de usuários.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/b90df733-3925-4826-8f16-f70e10a562ab)
 
     Acerto: Usando convenções no mundo real auxilia e é mais fácil para os usuários aprenderem e lembrarem de como a interface funciona.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/fb0e4a99-eab9-4ceb-9094-80dafe0dfe99)
 
   #### Controle e liberdade do usuário:
 
     Erro: O usuário ter liberdade demais e acabar fazendo ações indesejadas e não conseguir desfaze-las.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/f0188d18-9899-4975-be2b-aa8b63178d24)
 
     Acerto: Suporte para desfazer e refazer uma determinada ação.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/a3fd2d68-5e60-4050-a549-2e3462c27d61)
 
   #### Consistência e padrões:
 
     Erro: Os usuários ficarem confusos com os padrões e acharem que estão fazendo a mesma coisa.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/1b446df2-60be-4ca5-afe2-0a1ee1bc6214)
 
     Acerto: A falta de consistência para forçar aos usuários melhorarem a capacidade de aprendizado.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/540af299-2a24-4627-a74e-260f07ec53e7)
 
   #### Prevenção de erros:
 
     Erros: Poucas mensagens de erro, isso dificulta os usuários se lembrarem quando fizeram algo errado.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/57d98e00-5d1e-4fea-94bb-f2fa2fd5e04a)
 
     Acertos: Uma quantidade menor de erros significa que o sistema é mais bem feito e dificulta os usuários darem bug no sistema.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/0b8897d4-7313-446f-a88e-c7f0e8741aaf)
 
   #### Reconhecimento em vez de recordação
 
     Erros: Poucas informações, isso dificulta os usuários de vez em quando a lembrarem sobre a ação que desejam fazer.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/304c091b-7600-4915-b081-7d6886676cc5)
 
     Acertos: Interfaces intuitivas ajudam o usuário a se adaptar ao aplicativo e mais prático.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/f115aba6-90b6-4c6f-9944-b776e1b27ca5)
 
   #### Flexibilidade e eficiência de uso
 
     Erros: Processos muitos flexíveis pode dificultar a comunicação entre um usuário e outro.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/ad5bd44e-1aed-4f8c-a751-7388f2b79e9c)
 
     Acertos: Escolher o método que o usuário melhor se adaptar.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/8d1ee2ed-3b9d-4d24-876e-2a1ed4082f46)
 
   #### Design estético e minimalista
 
     Erros: Às vezes poucas informações pode deixar o usuário carente de informações.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/722073ca-bb88-4787-a8f5-6956e1e5a2a9)
 
     Acertos: Evita pouca poluição visual e deixa o usuário mais ligado no sistema.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/af151a02-17ec-4d7f-b58f-281ac55dc5b0)
 
   #### Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
 
     Erros:Linguagens muito simples pode complicar ainda mais o usuário entender o motivo do erro.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/5f1630f5-5a86-42d3-8331-cfc9f1f2d7e6)
 
     Acertos: Oferta de atalhos para resolução do sistema.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/e879bc6a-2eae-47f5-baac-7a6a645eaa04)
 
   #### Ajuda e documentação
 
     Erros: Documentações complexas e que não auxiliam a achar a resposta para o seu problema.
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/0c8d7bb8-09cb-4ce2-b56c-c0a62e495bfb)
 
     Acertos: Documentação só aparece quando o usuário necessita dela.
-
+    ![image](https://github.com/Andre-Bernardes200/Bertoti/assets/127262908/3961f982-7371-4e8d-8dec-b496820859dd)
     
 ## Atividade 4 - Aula 21/08/2023
 
