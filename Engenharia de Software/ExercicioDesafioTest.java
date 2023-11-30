@@ -15,30 +15,59 @@ class ExercicioDesafioTest {
 	@Test
 	void test1() {
 		
-//		Dados dado = new Dados();
-//		Cliente cliente = new Cliente();
-//		Banco metodo = new Banco(dado);
-//		
-//		double saldo = dado.setSaldo(1200);
-//		String clienteNome = cliente.criaNome();
-//		
-//		saldo = saldo - 200;
-//		
-//		assertEquals(saldo, 1000 );
-//		assertEquals(clienteNome,"André Luiz");
+		Dados dado = new Dados();
+		Cliente cliente = new Cliente();
+		Banco metodo = new Banco(dado);
 		
-		ExercicioParaTestar teste = new ExercicioParaTestar();
+		double saldo = dado.setSaldo(1200);
 		
-		assertEquals(teste.testandoCerto(-30000),teste.testandoErrado(-30000));
+		saldo = saldo - 200;
+		
+		assertEquals(saldo, 1000 );
 		
 	}
 	
-		@Test
-		void test2() {
+	@Test
+	void test2() {
 		
-		ExercicioParaTestar teste = new ExercicioParaTestar();
+		Dados dado = new Dados();
+		Cliente cliente = new Cliente();
+		Banco metodo = new Banco(dado);
 		
-		assertEquals(teste.testandoCerto(-30000),teste.testandoErrado(-30000));
+		String nome = dado.getNome();
+		assertEquals(nome,null);
 		
 	}
+	
+	@Test
+	void test3() {
+		
+		int num1 = 10;
+		
+		assertEquals(num1,10);
+	}
+	
+	@Test
+	void test4() {
+		Dados dado = new Dados();
+		Banco metodo = new Banco(dado);
+		
+		double valor = metodo.guardaDinheiroReserva(200);
+		
+		assertEquals(valor,200);
+		
+	}
+	
+	@Test
+	void test5() {
+		Dados dado = new Dados();
+		Banco metodo = new Banco(dado);
+		
+		double valor = metodo.guardaDinheiroReserva(200);
+		double retira = metodo.retiraDinheiroReserva(200);
+		
+		assertEquals(retira,1);
+		
+	}
+		
 }
