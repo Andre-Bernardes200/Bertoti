@@ -1,15 +1,12 @@
 package com.lab3.bertoti.PrimeiraAPiRest.controller;
 
 import com.lab3.bertoti.PrimeiraAPiRest.model.Celular;
+import com.lab3.bertoti.PrimeiraAPiRest.model.DadosAtualizaCelular;
 import com.lab3.bertoti.PrimeiraAPiRest.repository.CelularRepository;
-import jakarta.annotation.Resource;
-import org.apache.coyote.Response;
+import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -23,6 +20,26 @@ public class CelularController {
 
     @GetMapping
     public List<Celular> exibiCelular(){
-        return celularRepository.findAll();
+        return celularRepository.findByAtivoTrue();
+    }
+
+    @PostMapping("/incluir")
+    public void adicionaCelular(@RequestBody Celular celular){
+        celularRepository.save(celular);
+    }
+
+    @PutMapping
+    @Transactional
+    public void atualizaCelular(@RequestBody DadosAtualizaCelular dadosCelular){
+        Celular celular = celularRepository.getReferenceById(dadosCelular.id());
+
+        celular.atualizaCelular(dadosCelular);
+    }
+    @DeleteMapping("{id}")
+    public ResponseEntity deletaCelular(@PathVariable long id){
+        Celular celular = celularRepository.getReferenceById(id);
+        celular.deletaCelular();
+
+        return ResponseEntity.noContent().build();
     }
 }

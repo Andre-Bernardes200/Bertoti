@@ -6,5 +6,6 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public record CelularDTO(@JsonAlias("id") long id,
                          @JsonAlias("marca") String marcaCelular,
-                         @JsonAlias("modelo") String modeloCelular) {
+                         @JsonAlias("modelo") String modeloCelular,
+                         @JsonAlias("ativo") boolean ativo) {
 }
