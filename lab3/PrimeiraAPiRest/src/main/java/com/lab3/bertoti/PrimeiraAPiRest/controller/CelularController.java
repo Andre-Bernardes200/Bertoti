@@ -1,7 +1,7 @@
 package com.lab3.bertoti.PrimeiraAPiRest.controller;
 
+import com.lab3.bertoti.PrimeiraAPiRest.DTO.CelularDTO;
 import com.lab3.bertoti.PrimeiraAPiRest.model.Celular;
-import com.lab3.bertoti.PrimeiraAPiRest.model.DadosAtualizaCelular;
 import com.lab3.bertoti.PrimeiraAPiRest.repository.CelularRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,7 +30,7 @@ public class CelularController {
 
     @PutMapping
     @Transactional
-    public void atualizaCelular(@RequestBody DadosAtualizaCelular dadosCelular){
+    public void atualizaCelular(@RequestBody CelularDTO dadosCelular){
         Celular celular = celularRepository.getReferenceById(dadosCelular.id());
 
         celular.atualizaCelular(dadosCelular);

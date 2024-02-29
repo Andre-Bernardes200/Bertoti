@@ -1,5 +1,6 @@
 package com.lab3.bertoti.PrimeiraAPiRest.model;
 
+import com.lab3.bertoti.PrimeiraAPiRest.DTO.CelularDTO;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -26,9 +27,9 @@ public class Celular {
 
     private boolean ativo = true;
 
-    public void atualizaCelular(DadosAtualizaCelular celularNovo){
-        this.marca = celularNovo.marca();
-        this.modelo = celularNovo.modelo();
+    public void atualizaCelular(CelularDTO celularNovo){
+        this.marca = celularNovo.marcaCelular();
+        this.modelo = celularNovo.modeloCelular();
         this.ativo = celularNovo.ativo();
     }
 
