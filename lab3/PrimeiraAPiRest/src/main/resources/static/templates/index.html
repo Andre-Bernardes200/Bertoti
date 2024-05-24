@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciamento de Celulares</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <h1>Gerenciamento de Celulares</h1>
+
+    <form id="add-celular-form">
+        <h2>Adicionar Celular</h2>
+        <label for="celular-nome">Nome:</label>
+        <input type="text" id="celular-nome" required>
+        <label for="celular-modelo">Modelo:</label>
+        <input type="text" id="celular-modelo" required>
+        <button type="submit">Adicionar</button>
+    </form>
+
+    <form id="update-celular-form">
+        <h2>Atualizar Celular</h2>
+        <label for="update-celular-id">Selecionar Celular:</label>
+        <select id="update-celular-id" required></select>
+        <label for="update-celular-nome">Novo Nome:</label>
+        <input type="text" id="update-celular-nome" required>
+        <label for="update-celular-modelo">Novo Modelo:</label>
+        <input type="text" id="update-celular-modelo" required>
+        <button type="submit">Atualizar</button>
+    </form>
+
+    <h2>Lista de Celulares</h2>
+    <ul id="celular-list"></ul>
+
+    <script src="/js/script.js"></script>
+</body>
+</html>

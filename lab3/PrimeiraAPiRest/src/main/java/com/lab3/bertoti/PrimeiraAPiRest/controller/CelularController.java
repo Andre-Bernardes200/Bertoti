@@ -12,13 +12,14 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/celular")
+@CrossOrigin("*")
 public class CelularController {
 
     @Autowired
     CelularRepository celularRepository;
 
 
-    @GetMapping
+    @GetMapping("/list")
     public List<Celular> exibiCelular(){
         return celularRepository.findByAtivoTrue();
     }
@@ -28,7 +29,7 @@ public class CelularController {
         celularRepository.save(celular);
     }
 
-    @PutMapping
+    @PutMapping("/atuaçozar")
     @Transactional
     public void atualizaCelular(@RequestBody CelularDTO dadosCelular){
         Celular celular = celularRepository.getReferenceById(dadosCelular.id());
