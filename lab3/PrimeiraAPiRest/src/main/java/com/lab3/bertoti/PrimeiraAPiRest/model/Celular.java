@@ -27,14 +27,11 @@ public class Celular {
 
     private boolean ativo = true;
 
-    public void atualizaCelular(CelularDTO celularNovo){
-        this.marca = celularNovo.marcaCelular();
-        this.modelo = celularNovo.modeloCelular();
-        this.ativo = celularNovo.ativo();
+    public void atualizaCelular(Celular celularNovo){
+        this.marca = celularNovo.getMarca();
+        this.modelo = celularNovo.getModelo();
+        this.ativo = true;
     }
 
-    public void deletaCelular(){
-        this.ativo = false;
-    }
     
 }

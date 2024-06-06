@@ -29,17 +29,21 @@ public class CelularController {
         celularRepository.save(celular);
     }
 
-    @PutMapping("/atuaçozar")
+    @PutMapping("/atualizar/{id}")
     @Transactional
-    public void atualizaCelular(@RequestBody CelularDTO dadosCelular){
-        Celular celular = celularRepository.getReferenceById(dadosCelular.id());
+    public void atualizaCelular(@RequestBody CelularDTO dadosCelular, @PathVariable long id){
+        Celular celular = celularRepository.getReferenceById(id);
+        celular.setMarca(dadosCelular.marcaCelular());
+        celular.setModelo(dadosCelular.modeloCelular());
 
-        celular.atualizaCelular(dadosCelular);
+        celular.atualizaCelular(celular);
     }
     @DeleteMapping("{id}")
     public ResponseEntity deletaCelular(@PathVariable long id){
         Celular celular = celularRepository.getReferenceById(id);
-        celular.deletaCelular();
+        celular.setAtivo(false);
+
+        celularRepository.save(celular);
 
         return ResponseEntity.noContent().build();
     }

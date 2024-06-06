@@ -1,4 +1,4 @@
-package com.lab3.bertoti.PrimeiraAPiRest.config;
+package com.lab3.bertoti.PrimeiraAPiRest.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
