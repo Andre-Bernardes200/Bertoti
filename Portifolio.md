@@ -1,15 +1,21 @@
-# Coloque seu nome aqui
+# André Luiz Bernardes de Oliveira
 
 ## Introdução
+![image](https://github.com/user-attachments/assets/21b0017d-1502-407a-9a70-2b47850f7cb7)
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+Minha trajetória profissional começou com um estágio na Fundhas, na escola Cephas, onde trabalhei na secretaria e desenvolvi habilidades de comunicação e organização, essenciais para a gestão de arquivos e atendimento ao público.
+
+Depois, como estagiário na prefeitura de São José dos Campos, no setor de compras e licitações, aprimorei a comunicação com fornecedores e otimizei processos, adquirindo uma visão detalhada sobre a gestão e a eficiência operacional.
+
+Atualmente, estou me aprofundando em projetos de API na faculdade, onde estou adquirindo habilidades avançadas em programação e desenvolvimento de software. Esses projetos estão ampliando minha compreensão sobre a construção e integração de APIs, além de fortalecer minha capacidade de resolver problemas complexos e melhorar a comunicação entre sistemas. Essas experiências estão alinhadas com minhas habilidades anteriores e ampliam minha capacidade técnica, preparando-me para desafios mais avançados no campo da programação.
 
 ## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+* [GIT]([https://www.git.com](https://github.com/Andre-Bernardes200))
+* [LinkedIn](https://www.linkedin.com/in/andre-oliveira2004/)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+* Java Spring boot
+* Arquitetura MVC
 
 
 ## Meus Projetos
