@@ -10,7 +10,7 @@ Depois, como estagiário na prefeitura de São José dos Campos, no setor de com
 Atualmente, estou me aprofundando em projetos de API na faculdade, onde estou adquirindo habilidades avançadas em programação e desenvolvimento de software. Esses projetos estão ampliando minha compreensão sobre a construção e integração de APIs, além de fortalecer minha capacidade de resolver problemas complexos e melhorar a comunicação entre sistemas. Essas experiências estão alinhadas com minhas habilidades anteriores e ampliam minha capacidade técnica, preparando-me para desafios mais avançados no campo da programação.
 
 ## Contatos
-* [GIT]([https://www.git.com](https://github.com/Andre-Bernardes200))
+* [GIT]([https://www.git.com](https://github.com/Andre-Bernardes200])
 * [LinkedIn](https://www.linkedin.com/in/andre-oliveira2004/)
 
 ## Meus Principais Conhecimentos
