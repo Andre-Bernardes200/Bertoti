@@ -205,25 +205,25 @@
 
  > Contribuí ativamente como desenvolvedor frontend, desempenhando um papel crucial na arquitetura e estilização das páginas, como também a prototipação das telas.
 
-### 1. **Prototipação e criação das telas**
-   - Contribuí ativamente com a prototipação, criação e correção das telas para manter um padrão no frontend e melhorar a usabilidade do usuário.
+### 1. **Modelagem do banco de dados e armazenamento dos dados através de um arquivo**
+   - Contribui para a modelagem do banco de dados, garantindo sua normalização ao longo de todo o projeto e garantindo o bom armazenamento dos dados vindos de arquivos CSV ou xls.
 
-### 2. **Desenvolvimento da tela de carregar arquivo csv**
-   - Contribuí ativamente com o desenvolvimento da criação da tela de carregar csv, onde além da opção de abrir o explorer e carregar o csv, também temos a opção de selecionar o delimitador de colunas e se o arquivo tem cabeçalho ou não.
+### 2. **Desenvolvimento da funcionalidade de validar o que foi feito na zona anterior**
+   - Contribuí ativamente para que, ao concluir uma etapa anterior, o cliente tivesse a opção de validar ou rejeitar o que foi realizado, com a exigência de uma observação obrigatória no caso de rejeição..
 
-### 3. **Desenvolvimento da tela de criar, editar e visualizar hash**
-   - Contribuí ativamente com o desenvolvimento da tela de criar, editar e visualizar hash, onde nelas temos as opções de ver o nome do item, se é ativo ou não, selecionar o seu tipo, se ele terá algum valor padrão e uma descrição caso necessário.
+### 3. **Desenvolvimento da etapa Bronze**
+   - Contribuí ativamente para o desenvolvimento completo do CRUD na etapa bronze, onde o cliente poderia criar um hash e selecionar um ou mais metadados para servir como identificador único para os dados e salvar no banco de dados, além de contar com as opções de deletar, editar e visualizar o que foi feito.
 
-### 4. **Desenvolvimento da tela de criar e visualizar de-para**
-   - Contribuí ativamente com o desenvolvimento da tela de criar e visualizar de-para, onde temos a opção de selecionar nosso metadado e a partir dele, passar as informações dos de-paras.
+### 4. **Desenvolvimento da etapa Silver**
+   - Contribuí ativamente para o desenvolvimento completo do CRUD na etapa silver, onde o cliente poderia criar o DExPARA. Nessa etapa, fui responsável por enviar uma lista de metadados ao front-end de um arquivo específico, permitindo que o cliente selecionasse uma ou mais colunas e definisse o DExPARA e após sua criação salva-los no banco de dados, além de contar com as opções de deletar, editar e visualizar o que foi feito.
 
-### 5. **Desenvolvimento da funcionalidade de carregar arquivo direto na etapa de-para**
-   - Contribuí ativamente com o desenvolvimento da etapa de carregar arquivo direto na etapa de-para, onde eu adicionei um botão onde abre o modal para carregar um csv (igual a contribuição 2 descrita acima).
-   - 
+### 5. **Desenvolvimento da funcionalidade de carregar arquivo direto na etapa Silver**
+   - Contribuí de maneira significativa para o desenvolvimento da etapa de importação de arquivos na fase Silver, criando um método que, ao realizar a importação de arquivos nos formatos CSV ou XLS, processava todas as informações contidas neles e as mandava para o front-end exibi-las de forma clara e organizada para visualização do usuário.
+     
 <br>
 
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o desenvolvimento dessa aplicação, a experiência me proporcionou uma compreensão abrangente do ciclo de vida do desenvolvimento de software, desde a gestão ágil do projeto até a implementação eficaz no frontend, o trabalho em equipe e todo o conhecimento que adquiri sobre experiência de usuário para ter telas bem intuitivas e fáceis de usar e entender.</p>
+<p align="justify">Durante o projeto, adquiri conhecimentos em modelagem de banco de dados, com foco na normalização e no armazenamento eficiente de dados, incluindo a integração de arquivos CSV e XLS. Contribuí para a criação de funcionalidades que permitiram validar ou rejeitar etapas anteriores, garantindo controle e qualidade no processo. Também desenvolvi o CRUD completo nas etapas Bronze e Silver, permitindo a criação de hashes e DExPARAs, além de operações de edição, exclusão e visualização. Aprimorei meu domínio do Spring Boot, implementando funcionalidades robustas e escaláveis, e apliquei a metodologia MVC para organizar a estrutura do projeto, separando de maneira eficiente as responsabilidades de modelo, visão e controle. Além disso, criei métodos para importar arquivos CSV e XLS, processando suas informações e exibindo-as de forma organizada no front-end para visualização do usuário.</p>
 
 <h3>Hard Skills</h3>
   <table>
