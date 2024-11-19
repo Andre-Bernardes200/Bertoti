@@ -203,7 +203,7 @@
 
 <h2>Minhas Contribuições</h2>
 
- > Contribuí ativamente como desenvolvedor frontend, desempenhando um papel crucial na arquitetura e estilização das páginas, como também a prototipação das telas.
+ > Contribuí ativamente como desenvolvedor back-end, desempenhando um papel fundamental na modelagem do banco de dados, garantindo um design eficiente e otimizado. Além disso, atuei de forma significativa em duas das três etapas do projeto, correspondentes às fases Bronze e Silver, desenvolvendo soluções robustas e alinhadas aos requisitos do sistema.
 
 ### 1. **Modelagem do banco de dados e armazenamento dos dados através de um arquivo**
    - Contribui para a modelagem do banco de dados, garantindo sua normalização ao longo de todo o projeto e garantindo o bom armazenamento dos dados vindos de arquivos CSV ou xls.
@@ -232,24 +232,24 @@
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>HTML5</td>
-      <td align="center">★★★★★☆</td>
+      <td>Java com spring-boot</td>
+      <td align="center">★★★★★★</td>
     </tr>
     <tr>
-      <td>CSS3</td>
-      <td align="center">★★★★☆☆</td>
+      <td>Arquitetura MVC</td>
+      <td align="center">★★★★★★</td>
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td align="center">★★★☆☆☆</td>
+      <td align="center">★★★★★☆</td>
     </tr>
     <tr>
       <td>Vue.js</td>
-      <td align="center">★★★☆☆☆</td>
+      <td align="center">★★★★☆☆</td>
     </tr>
     <tr>
       <td>ClickUp</td>
-      <td align="center">★★★★☆☆</td>
+      <td align="center">★★★★★☆</td>
     </tr>
     <tr>
       <td>Figma</td>
@@ -257,11 +257,11 @@
     </tr>
     <tr>
       <td>Visual Studio Code</td>
-      <td align="center">★★★☆☆☆</td>
+      <td align="center">★★★★☆☆</td>
     </tr>
     <tr>
       <td>Postman</td>
-      <td align="center">★★★☆☆☆</td>
+      <td align="center">★★★★★★</td>
     </tr>
   </table>
 
@@ -273,7 +273,7 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td align="center">★★★★☆☆</td>
+      <td align="center">★★★★★★</td>
     </tr>
     <tr>
       <td>Autonomia e Visão de Negócio</td>
@@ -281,11 +281,11 @@
     </tr>
     <tr>
       <td>Comunicação e Colaboração</td>
-      <td align="center">★★★★☆☆</td>
+      <td align="center">★★★★★★</td>
     </tr>
     <tr>
       <td>Organização, Planejamento e Entrega</td>
-      <td align="center">★★★★★☆</td
+      <td align="center">★★★★★★</td
     </tr>
  </table>
 </details>
