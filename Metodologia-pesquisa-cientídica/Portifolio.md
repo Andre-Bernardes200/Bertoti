@@ -78,8 +78,8 @@
 
  > Contribuí ativamente com a prototipação, criação e padronização das telas, a conexão com o banco de dados, uma das rotas da aplicação e por fim a criação de dois manuais, um para a instalação do MySQL Workbench e outro para ajudar o usuário a mexer na aplicação.
 
-### 1. **Prototipação e criação das telas**
-   - Contribuí ativamente com a prototipação, criação e correção das telas para manter um padrão no frontend e melhorar a usabilidade do usuário.
+### 1. **Modelagem do Banco de dados**
+   - Atuei ativamente na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir o armazenamento eficiente dos dados, eliminando redundâncias e assegurando a integridade das informações.
 
 ### 2. **Conexão com o banco de dados**
    - Contribuí ativamente com o desenvolvimento da funcionalide de conexão com banco.
