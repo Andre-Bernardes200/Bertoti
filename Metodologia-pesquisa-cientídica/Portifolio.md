@@ -76,24 +76,24 @@
 
 <h2>Minhas Contribuições</h2>
 
- > Contribuí ativamente com a prototipação, criação e padronização das telas, a conexão com o banco de dados, uma das rotas da aplicação e por fim a criação de dois manuais, um para a instalação do MySQL Workbench e outro para ajudar o usuário a mexer na aplicação.
+ > Contribuí ativamente no desenvolvimento do back-end e na modelagem do banco de dados, focando na otimização de performance e eliminação de redundâncias. Participei da implementação do processo de leitura e armazenamento de dados a partir de arquivos CSV, além de criar tratamentos de erro. Também estive envolvido na construção da aplicação e na geração do arquivo JAR, garantindo a estabilidade e escalabilidade do sistema.
 
 ### 1. **Modelagem do Banco de dados**
-   - Atuei ativamente na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir o armazenamento eficiente dos dados, eliminando redundâncias e assegurando a integridade das informações.
+   - Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial. 
 
-### 2. **Conexão com o banco de dados**
-   - Contribuí ativamente com o desenvolvimento da funcionalide de conexão com banco.
+### 2. **Leitura de um arquivo CSV**
+   - Contribuí no desenvolvimento de uma funcionalidade para a leitura de arquivos CSV, implementando um processo eficiente para extrair os dados contidos no arquivo e apresentá-los de forma clara e organizada na tela. A solução foi projetada para garantir que os dados fossem lidos corretamente, permitindo ao usuário visualizar as informações de maneira intuitiva e facilitar a interação com os dados através de uma interface visual amigável.
 
-### 3. **Criação da rota de feedback e lançamento de notas**
-  - Contribuí ativamente com o desenvolvimento de uma etapa onde o usuário (professor) lançaria as notas do aluno sobre a entrega da atividade e colocaria um comentário para explicar o porque daquela avaliação.
+### 3. **Tratamento de erros**
+  - Contribuí ativamente no desenvolvimento dos tratamentos de erro da aplicação, implementando mecanismos que garantem uma resposta clara e informativa sempre que algo não funcionasse como esperado. A solução foi projetada para capturar falhas de forma eficiente e exibir mensagens de erro, indicando o que deu errado, permitindo ao usuário compreender o problema e tomar as ações necessárias para resolvê-lo.
 
-### 4. **Documentação da aplicação**
-  - Contribuí ativamente criando um manual sobre a instalação e configuração do MySQL Workbench e um manual de usuário para o mesmo saber como mexer na aplicação.
+### 4. **Build da aplicação**
+  - Contribuí ativamente no processo de construção da aplicação, empacotando-a em um arquivo .jar, facilitando sua execução e distribuição para os usuários. Através dessa abordagem, garanti que a aplicação fosse compilada de forma eficiente e estivesse pronta para uso imediato, proporcionando uma experiência mais prática e acessível para os usuários finais.
 
 <br>
 
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o desenvolvimento dessa aplicação, a experiência me proporcionou uma compreensão abrangente sobre como é o desenvolvimento de software, desde a gestão ágil do projeto até a prototipação das telas e implementação eficaz no frontend, conexão e relação entre o backend, frontend e banco de dados e também o trabalho em equipe.</p>
+<p align="justify">Durante o desenvolvimento da aplicação, atuei na modelagem do banco de dados, criando scripts otimizados para garantir eficiência e integridade das informações. Implementei uma funcionalidade para leitura de arquivos CSV, permitindo a extração e exibição clara dos dados ao usuário. Contribuí para o tratamento de erros, garantindo respostas informativas e permitindo ao usuário entender e corrigir falhas. Também participei do processo de build da aplicação, empacotando-a em um arquivo .jar para facilitar sua distribuição e uso. Esses conhecimentos garantiram uma aplicação eficiente, robusta e com boa experiência para o usuário.</p>
 
 <h3>Hard Skills</h3>
   <table>
