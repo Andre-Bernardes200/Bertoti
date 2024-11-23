@@ -29,7 +29,6 @@
 </div>
 
 <br>
-<br>
 
 <div align=center><h1>Sistema Gerenciador de TGs</h1></div>
 
@@ -71,7 +70,6 @@
 <img src="https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
-<br>
 <br>
 
 <h2>Minhas Contribuições</h2>
@@ -196,7 +194,6 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
-<br>
 <br>
 
 <h2>Minhas Contribuições</h2>
