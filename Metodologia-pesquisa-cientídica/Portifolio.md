@@ -103,15 +103,15 @@
     </tr>
     <tr>
       <td>Java</td>
-      <td align="center">★★★☆☆☆</td>
+      <td align="center">★★★★★☆</td>
     </tr>
     <tr>
       <td>Scene Builder</td>
-      <td align="center">★★★☆☆☆</td>
+      <td align="center">★★★★☆☆</td>
     </tr>
     <tr>
       <td>MySQL</td>
-      <td align="center">★★★★☆☆</td>
+      <td align="center">★★★★★☆</td>
     </tr>
     <tr>
       <td>Figma</td>
@@ -127,19 +127,19 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td align="center">★★★★★☆</td>
+      <td align="center">★★★★★★</td>
     </tr>
     <tr>
       <td>Autonomia e Visão de Negócio</td>
-      <td align="center">★★★★☆☆</td>
+      <td align="center">★★★★★★</td>
     </tr>
     <tr>
       <td>Comunicação e Colaboração</td>
-      <td align="center">★★★★☆☆</td>
+      <td align="center">★★★★★★</td>
     </tr>
     <tr>
       <td>Organização, Planejamento e Entrega</td>
-      <td align="center">★★★☆☆☆</td
+      <td align="center">★★★★★★</td
     </tr>
  </table>
 </details>
@@ -206,19 +206,19 @@
  > Contribuí ativamente como desenvolvedor back-end, desempenhando um papel fundamental na modelagem do banco de dados, garantindo um design eficiente e otimizado. Além disso, atuei de forma significativa em duas das três etapas do projeto, correspondentes às fases Bronze e Silver, desenvolvendo soluções robustas e alinhadas aos requisitos do sistema.
 
 ### 1. **Modelagem do banco de dados e armazenamento dos dados através de um arquivo**
-   - Contribui para a modelagem do banco de dados, garantindo sua normalização ao longo de todo o projeto e garantindo o bom armazenamento dos dados vindos de arquivos CSV ou xls.
+   - Contribuí para a modelagem do banco de dados, assegurando sua normalização em todas as etapas do projeto para evitar redundâncias e melhorar a eficiência do armazenamento. Além disso, implementei estratégias para garantir o bom armazenamento dos dados provenientes de arquivos CSV ou XLS, realizando a limpeza e transformação necessárias para que as informações fossem corretamente processadas. Trabalhei na definição de relacionamentos entre as tabelas, assegurando a integridade referencial e o desempenho nas consultas, garantindo um banco de dados eficiente e de fácil manutenção ao longo do ciclo de vida do projeto.
 
 ### 2. **Desenvolvimento da funcionalidade de validar o que foi feito na zona anterior**
-   - Contribuí ativamente para que, ao concluir uma etapa anterior, o cliente tivesse a opção de validar ou rejeitar o que foi realizado, com a exigência de uma observação obrigatória no caso de rejeição..
+   - Contribuí para implementar um fluxo no qual, ao finalizar uma etapa do projeto, o cliente tivesse a opção de validar ou rejeitar o trabalho realizado. Em caso de rejeição, a plataforma exigia uma justificativa detalhada, garantindo que todas as alterações e ajustes necessários fossem claramente comunicados. 
 
 ### 3. **Desenvolvimento da etapa Bronze**
-   - Contribuí ativamente para o desenvolvimento completo do CRUD na etapa bronze, onde o cliente poderia criar um hash e selecionar um ou mais metadados para servir como identificador único para os dados e salvar no banco de dados, além de contar com as opções de deletar, editar e visualizar o que foi feito.
+   - Contribuí ativamente para o desenvolvimento completo do CRUD na etapa bronze, permitindo ao cliente criar um hash e selecionar um ou mais metadados como identificadores únicos para os dados, que seriam salvos no banco de dados. A funcionalidade também incluiu as opções de editar, excluir e visualizar os registros criados, oferecendo uma interface intuitiva para o gerenciamento completo das informações. Esse processo assegurou que os dados fossem armazenados de forma organizada e facilmente acessíveis, além de garantir a flexibilidade para o cliente realizar as alterações necessárias ao longo do uso.
 
 ### 4. **Desenvolvimento da etapa Silver**
-   - Contribuí ativamente para o desenvolvimento completo do CRUD na etapa silver, onde o cliente poderia criar o DExPARA. Nessa etapa, fui responsável por enviar uma lista de metadados ao front-end de um arquivo específico, permitindo que o cliente selecionasse uma ou mais colunas e definisse o DExPARA e após sua criação salva-los no banco de dados, além de contar com as opções de deletar, editar e visualizar o que foi feito.
+   - Contribuí ativamente para o desenvolvimento completo do CRUD na etapa silver, onde o cliente podia criar o DExPARA. Fui responsável por enviar ao front-end uma lista de metadados de um arquivo específico, permitindo que o cliente selecionasse uma ou mais colunas para definir o DExPARA. Após a criação, o cliente podia salvar os dados no banco de dados e também contar com as opções de editar, excluir e visualizar os registros. Esse processo garantiu flexibilidade e controle para o cliente no gerenciamento dos dados, além de assegurar que as informações fossem armazenadas de forma eficiente e acessível.
 
 ### 5. **Desenvolvimento da funcionalidade de carregar arquivo direto na etapa Silver**
-   - Contribuí de maneira significativa para o desenvolvimento da etapa de importação de arquivos na fase Silver, criando um método que, ao realizar a importação de arquivos nos formatos CSV ou XLS, processava todas as informações contidas neles e as mandava para o front-end exibi-las de forma clara e organizada para visualização do usuário.
+   - Contribuí significativamente para o desenvolvimento da etapa de importação de arquivos na fase Silver, criando um método que processava as informações contidas em arquivos nos formatos CSV ou XLS. O método era responsável por importar e processar os dados, enviando-os ao front-end para que fossem exibidos de forma clara e organizada, facilitando a visualização e interação do usuário com as informações.
      
 <br>
 
