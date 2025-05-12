@@ -1,8 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Portifólio%20API&fontSize=50&fontColor=1A4870">
 
-<p align="justify">
-  Olá, meu nome é André Luiz, tenho 24 anos de idade, sou natural de São José dos Campos - São Paulo, Brasil.<br>
-  Estou cursando Tecnologia em Banco de Dados na Fatec-SJC e atualmente trabalho como Técnico em gestão municipal na prefeitura de Jacareí.
+<div style="display: flex; align-items: flex-start; gap: 20px; background-color: white; color: black; font-family: Arial, sans-serif; padding: 20px;">
+  <!-- Imagem à esquerda -->
+  <div style="flex-shrink: 0;">
+    <img src="https://github.com/user-attachments/assets/fecee851-9f62-41db-8e71-b240d92ef861"
+         alt="Foto de André Luiz"
+         width="150"
+         style="border-radius: 8px;">
+  </div>
+  
+  <!-- Texto à direita -->
+  <div style="flex-grow: 1;">
+    <p>
+      Olá! Meu nome é André Luiz, tenho 24 anos e sou natural de São José dos Campos, São Paulo. Atualmente, estou cursando Tecnologia em Banco de Dados na FATEC São José dos Campos e trabalho como Desenvolvedor RPA Júnior na Bernhoeft.
+    </p>
+    <p>
+      Sempre tive facilidade com tecnologia e interesse por sistemas e automações. Esse interesse foi se fortalecendo ao longo do tempo, especialmente com o incentivo da minha namorada, que me motivou a entrar de vez na área de TI. A escolha pelo curso de Banco de Dados na FATEC veio justamente pela combinação entre minha afinidade com a tecnologia e a qualidade reconhecida da instituição.
+    </p>
+    <p>
+      Antes de atuar como desenvolvedor, trabalhei como assistente administrativo na mesma empresa. Essa experiência, embora fora da área técnica, me ajudou a compreender melhor os processos internos e, mais tarde, foi essencial para minha transição. O ambiente de trabalho também foi um diferencial: tive a oportunidade de aplicar e aprimorar meus conhecimentos em tecnologia, o que reforçou ainda mais minha decisão de seguir carreira na área.
+    </p>
+  </div>
+</div>
+
 </p>
 
 ## Contatos:
@@ -91,57 +111,8 @@
 <h2>Conhecimentos Obtidos</h2>
 <p align="justify">Durante o desenvolvimento da aplicação, atuei na modelagem do banco de dados, criando scripts otimizados para garantir eficiência e integridade das informações. Implementei uma funcionalidade para leitura de arquivos CSV, permitindo a extração e exibição clara dos dados ao usuário. Contribuí para o tratamento de erros, garantindo respostas informativas e permitindo ao usuário entender e corrigir falhas. Também participei do processo de build da aplicação, empacotando-a em um arquivo .jar para facilitar sua distribuição e uso. Esses conhecimentos garantiram uma aplicação eficiente, robusta e com boa experiência para o usuário.</p>
 
-<h3>Hard Skills</h3>
-  <table>
-    <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Scene Builder</td>
-      <td align="center">★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>MySQL</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Figma</td>
-      <td align="center">★★★★☆☆</td>
-    </tr>
-  </table>
-
-<h3>Soft Skills </h3>
-  <table>
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Autonomia e Visão de Negócio</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Comunicação e Colaboração</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Organização, Planejamento e Entrega</td>
-      <td align="center">★★★★★★</td
-    </tr>
- </table>
 </details>
-
 <br>
-
 <div align=center><h1>DataFlow</h1></div>
 
 <h4> 3º Semestre • <a href="https://github.com/iNineBD/DataFlow-3Sem2024">Repositório Github</a></h4>
@@ -218,67 +189,83 @@
 <h2>Conhecimentos Obtidos</h2>
 <p align="justify">Durante o projeto, adquiri conhecimentos em modelagem de banco de dados, com foco na normalização e no armazenamento eficiente de dados, incluindo a integração de arquivos CSV e XLS. Contribuí para a criação de funcionalidades que permitiram validar ou rejeitar etapas anteriores, garantindo controle e qualidade no processo. Também desenvolvi o CRUD completo nas etapas Bronze e Silver, permitindo a criação de hashes e DExPARAs, além de operações de edição, exclusão e visualização. Aprimorei meu domínio do Spring Boot, implementando funcionalidades robustas e escaláveis, e apliquei a metodologia MVC para organizar a estrutura do projeto, separando de maneira eficiente as responsabilidades de modelo, visão e controle. Além disso, criei métodos para importar arquivos CSV e XLS, processando suas informações e exibindo-as de forma organizada no front-end para visualização do usuário.</p>
 
-<h3>Hard Skills</h3>
-  <table>
-    <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Java com spring-boot</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Arquitetura MVC</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Vue.js</td>
-      <td align="center">★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>ClickUp</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Figma</td>
-      <td align="center">★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Visual Studio Code</td>
-      <td align="center">★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Postman</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-  </table>
+</details>
 
-<h3>Soft Skills </h3>
-  <table>
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Autonomia e Visão de Negócio</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Comunicação e Colaboração</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Organização, Planejamento e Entrega</td>
-      <td align="center">★★★★★★</td
-    </tr>
- </table>
+<div align=center><h1>GeoTrack</h1></div>
+
+<h4> 4º Semestre • <a href="https://github.com/iNineBD/GeoTrack-4Sem2024Main">Repositório Github</a></h4>
+
+<p align="justify"> Empresa Parceira • <a href="https://www.linkedin.com/company/ito1/posts/?feedView=all">ITO1</a></p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/84de99ef-2c5a-481c-8c79-3675a0c163e3" widht="20%"></img>
+
+<p align="justify">O GeoTrack é uma plataforma web inovadora projetada para simplificar e automatizar o gerenciamento de dados de geolocalização em tempo real, provenientes de dispositivos IoT (como wearables, tags e smartphones). Desenvolvido para escalabilidade e segurança, o sistema permite que usuários autorizados configurem, monitorem e analisem fluxos de geodados de forma intuitiva, sem necessidade de conhecimentos técnicos avançados.</p>
+
+<details>
+
+  <summary align="center">VER MAIS DETALHES</summary>
+  
+  <h2>Objetivo</h2>
+
+#### Após a finalização do projeto pela equipe iNine:
+* O sistema permitirá a interação com mapas através de funções de arrastar e zoom para navegação intuitiva na área de interesse
+* O usuário poderá filtrar resultados por pessoa através de lista suspensa para visualizar dispositivos associados
+* O sistema disponibilizará filtros por período de tempo com seleção via calendário para consultas temporais específicas
+* O usuário terá acesso a buscas rápidas utilizando tags pré-definidas ("Hoje", "Últimos 3 dias", "Esta semana", "Último mês")
+* O sistema exibirá pontos de localização no mapa através de marcadores visuais (pins) que identificam paradas nas rotas
+* O usuário poderá visualizar rotas completas de pessoas/objetos plotadas no mapa conforme filtros aplicados
+* O sistema permitirá a criação, visualização e exclusão de seções geográficas usando formas geométricas
+* O usuário poderá definir regiões personalizadas para buscas e filtros específicos de geolocalização
+* O sistema disponibilizará relatórios detalhados em pop-ups com informações complementares sobre os dados mapeados
+* O usuário acessará o sistema através de autenticação segura com login e validação de credenciais
+* O sistema garantirá uma infraestrutura robusta, escalável e altamente disponível para processamento de grandes volumes de dados IoT
+<br>
+
+<h2>Tecnologias Utilizadas no Projeto</h2>
+<p align="justify"><strong>Java JDK 21.0.2:</strong> linguagem utilizada para desenvolvimento do backend.</p>
+<p align="justify"><strong>Spring Boot 3.3.2:</strong> framework utilizado para desenvolvimento do backend.</p>
+<p align="justify"><strong>MySQL:</strong> SGBD para desenvolvimento do Banco de Dados.</p>
+<p align="justify"><strong>Vue.js 2.6.12:</strong> framework utilizado para desenvolvimenton do frontend.</p>
+<p align="justify"><strong>Vuetify:</strong> linguagem de marcação utilizada para o desenvolvimento do frontend.</p>/p>
+<p align="justify"><strong>JavaScript:</strong> linguagem utilizada para desenvolvimento do frontend.</p>
+<p align="justify"><strong>YouTrack:</strong> ferramenta utilizada para o gerenciamento do projeto.</p>
+<p align="justify"><strong>Figma:</strong> ferramenta utilizada para prototipar as telas.</p>
+<p align="justify"><strong>IntelliJ IDEA:</strong> IDE utilizada para o desenvolvimento backend dos códigos da aplicação.</p>
+<p align="justify"><strong>Visual Studio Code:</strong> IDE utilizada para o desenvolvimento frontend dos códigos da aplicação.</p>
+<p align="justify"><strong>Postman:</strong> ferramenta utilizada para criar, compartilhar, testar e documentar APIs.</p>
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+<img src="https://img.shields.io/badge/vuetify-4A148C?style=for-the-badge&logo=vuetify&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/youtrack-000000?style=for-the-badge&logo=youtrack&logoColor=white">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
+<br>
+
+<h2>Minhas Contribuições</h2>
+
+<p align="justify"> > Contribuí ativamente no desenvolvimento do back-end e na modelagem do banco de dados, focando na otimização de performance e eliminação de redundâncias. Participei da implementação do processo de leitura e armazenamento de dados a partir de arquivos CSV, além de criar tratamentos de erro. Também estive envolvido na construção da aplicação e na geração do arquivo JAR, garantindo a estabilidade e escalabilidade do sistema.</p>
+
+### 1. **Modelagem do Banco de dados**
+<p align="justify"> Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial.</p>
+
+### 2. **Leitura de um arquivo CSV**
+<p align="justify"> Contribuí no desenvolvimento de uma funcionalidade para a leitura de arquivos CSV, implementando um processo eficiente para extrair os dados contidos no arquivo e apresentá-los de forma clara e organizada na tela. A solução foi projetada para garantir que os dados fossem lidos corretamente, permitindo ao usuário visualizar as informações de maneira intuitiva e facilitar a interação com os dados através de uma interface visual amigável.</p>
+
+### 3. **Tratamento de erros**
+<p align="justify"> Contribuí ativamente no desenvolvimento dos tratamentos de erro da aplicação, implementando mecanismos que garantem uma resposta clara e informativa sempre que algo não funcionasse como esperado. A solução foi projetada para capturar falhas de forma eficiente e exibir mensagens de erro, indicando o que deu errado, permitindo ao usuário compreender o problema e tomar as ações necessárias para resolvê-lo.</p>
+
+### 4. **Build da aplicação**
+<p align="justify"> Contribuí ativamente no processo de construção da aplicação, empacotando-a em um arquivo .jar, facilitando sua execução e distribuição para os usuários. Através dessa abordagem, garanti que a aplicação fosse compilada de forma eficiente e estivesse pronta para uso imediato, proporcionando uma experiência mais prática e acessível para os usuários finais.</p>
+<br>
+<h2>Conhecimentos Obtidos</h2>
+<p align="justify">Durante o desenvolvimento da aplicação, atuei na modelagem do banco de dados, criando scripts otimizados para garantir eficiência e integridade das informações. Implementei uma funcionalidade para leitura de arquivos CSV, permitindo a extração e exibição clara dos dados ao usuário. Contribuí para o tratamento de erros, garantindo respostas informativas e permitindo ao usuário entender e corrigir falhas. Também participei do processo de build da aplicação, empacotando-a em um arquivo .jar para facilitar sua distribuição e uso. Esses conhecimentos garantiram uma aplicação eficiente, robusta e com boa experiência para o usuário.</p>
+
 </details>
