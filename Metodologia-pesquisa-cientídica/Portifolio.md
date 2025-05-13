@@ -224,7 +224,7 @@
 <h2>Tecnologias Utilizadas no Projeto</h2>
 <p align="justify"><strong>Java JDK 21.0.2:</strong> linguagem utilizada para desenvolvimento do backend.</p>
 <p align="justify"><strong>Spring Boot 3.3.2:</strong> framework utilizado para desenvolvimento do backend.</p>
-<p align="justify"><strong>MySQL:</strong> SGBD para desenvolvimento do Banco de Dados.</p>
+<p align="justify"><strong>Oracle Database:</strong> SGBD para desenvolvimento do Banco de Dados.</p>
 <p align="justify"><strong>Vue.js 2.6.12:</strong> framework utilizado para desenvolvimenton do frontend.</p>
 <p align="justify"><strong>Vuetify:</strong> linguagem de marcação utilizada para o desenvolvimento do frontend.</p>
 <p align="justify"><strong>JavaScript:</strong> linguagem utilizada para desenvolvimento do frontend.</p>
@@ -236,7 +236,7 @@
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 <img src="https://img.shields.io/badge/vuetify-4A148C?style=for-the-badge&logo=vuetify&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
