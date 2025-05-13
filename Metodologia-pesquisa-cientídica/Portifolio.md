@@ -226,7 +226,7 @@
 <p align="justify"><strong>Spring Boot 3.3.2:</strong> framework utilizado para desenvolvimento do backend.</p>
 <p align="justify"><strong>MySQL:</strong> SGBD para desenvolvimento do Banco de Dados.</p>
 <p align="justify"><strong>Vue.js 2.6.12:</strong> framework utilizado para desenvolvimenton do frontend.</p>
-<p align="justify"><strong>Vuetify:</strong> linguagem de marcação utilizada para o desenvolvimento do frontend.</p>/p>
+<p align="justify"><strong>Vuetify:</strong> linguagem de marcação utilizada para o desenvolvimento do frontend.</p>
 <p align="justify"><strong>JavaScript:</strong> linguagem utilizada para desenvolvimento do frontend.</p>
 <p align="justify"><strong>YouTrack:</strong> ferramenta utilizada para o gerenciamento do projeto.</p>
 <p align="justify"><strong>Figma:</strong> ferramenta utilizada para prototipar as telas.</p>
