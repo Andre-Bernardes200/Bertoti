@@ -12,7 +12,7 @@
   <!-- Texto à direita -->
   <div style="flex-grow: 1;">
     <p>
-      Olá! Meu nome é André Luiz, tenho 24 anos e sou natural de São José dos Campos, São Paulo. Atualmente, estou cursando Tecnologia em Banco de Dados na FATEC São José dos Campos e trabalho como Desenvolvedor RPA Júnior na Bernhoeft.
+      Olá! Meu nome é André Luiz, tenho 25 anos e sou natural de São José dos Campos, São Paulo. Atualmente, estou cursando Tecnologia em Banco de Dados na FATEC São José dos Campos e trabalho como Desenvolvedor RPA Júnior na Bernhoeft.
     </p>
     <p>
       Sempre tive facilidade com tecnologia e interesse por sistemas e automações. Esse interesse foi se fortalecendo ao longo do tempo, especialmente com o incentivo da minha namorada, que me motivou a entrar de vez na área de TI. A escolha pelo curso de Banco de Dados na FATEC veio justamente pela combinação entre minha afinidade com a tecnologia e a qualidade reconhecida da instituição.
@@ -57,7 +57,7 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/8c7f97f8-d393-4fa2-a33f-b28cae9bc1a5" widht="20%"></img>
 
-<p align="justify">Desenvolvimento de uma aplicação tecnológica via linha de comando para uma Gestão Eficiente dos Trabalhos de Graduação, promovendo o acompanhamento estruturado e organizado por parte dos orientadores.</p>
+<p align="justify">Desenvolvimento de uma aplicação tecnológica via linha de comando para uma Gestão Eficiente da distribução de pontos e feedback entre a equipe, promovendo o acompanhamento estruturado e organizado.</p>
 
 <details>
 
@@ -66,28 +66,35 @@
   <h2>Objetivo</h2>
 
 #### Após a finalização do projeto pela equipe iNine:
-* O sistema poderá armazenará informações de alunos, orientadores e TGs;
-* O usuário conseguirá fazer o lançamento de notas de atividades;
-* O usuário conseguirá realizar a gestão de alunos, orientadores, TGs e entregas;
-* O usuário conseguirá gerar relatórios para acompanhamento de entregas, agendamento de bancas de defesa, fechamento de semestre e transporte de notas.
+* O sistema poderá armazenará informações sobre a distribuição dos pontos e dos feedback's;
+* O usuário conseguirá fazer o controle de turmas/ times;
+* O usuário conseguirá realizar a avalição em 360° entre os membros da equipe;
+* O usuário conseguirá fazer o controle de perfis de usuários e sprint's.
+* O usuário conseguirá visualizar dos dados atráves de dashboard's consolidados no terminal. 
 
 <br>
 
 <h2>Tecnologias Utilizadas no Projeto</h2>
-<p align="justify"><strong>Java JDK 17.0.3:</strong> linguagem utilizada para desenvolvimento do backend.</p>
-<p align="justify"><strong>JavaFX SDK 17.0.8:</strong> linguagem utilizada para desenvolvimento do backend.</p>
-<p align="justify"><strong>Scene Builder:</strong> ferramenta utilizada para criação das telas.</p>
-<p align="justify"><strong>MySQL:</strong> SGBD para desenvolvimento do Banco de Dados.</p>
-<p align="justify"><strong>Eclipse:</strong> IDE utilizada para o desenvolvimento dos códigos da aplicação.</p>
-<p align="justify"><strong>ClickUp:</strong> ferramenta utilizada para o gerenciamento do projeto.</p>
-<p align="justify"><strong>Figma:</strong> ferramenta utilizada para prototipar as telas.</p>
+<p align="justify"><strong>Python:</strong> linguagem de programação utilizada para desenvolvimento de scripts e automações.</p>
+<p align="justify"><strong>Excel:</strong> ferramenta utilizada para manipulação e análise de dados em formato de planilhas.</p>
+<p align="justify"><strong>Microsoft Teams:</strong> plataforma utilizada para comunicação e reuniões durante o desenvolvimento do projeto.</p>
+<p align="justify"><strong>Canva:</strong> ferramenta utilizada para criação de elementos visuais e materiais gráficos do projeto.</p>
+<p align="justify"><strong>JSON:</strong> formato de intercâmbio de dados utilizado para leitura e escrita estruturada de informações.</p>
+<p align="justify"><strong>Git:</strong> sistema de controle de versão usado para versionamento do código-fonte da aplicação.</p>
+<p align="justify"><strong>Visual Studio Code:</strong> editor de código utilizado para desenvolvimento e manutenção do projeto.</p>
+<p align="justify"><strong>Monday.com:</strong> plataforma usada para organização de tarefas e acompanhamento das etapas do projeto.</p>
+<p align="justify"><strong>Discord:</strong> ferramenta de comunicação e alinhamento entre os membros da equipe.</p>
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/scene_builder-orange.svg?style=for-the-badge&logo=&logoColor=orange">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Monday.com-FF7552?style=for-the-badge&logo=monday.com&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+
 
 <br>
 
