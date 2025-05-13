@@ -256,16 +256,20 @@
 ### 1. **Modelagem do Banco de dados**
 <p align="justify"> Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial.</p>
 
-### 2. **Leitura de um arquivo CSV**
-<p align="justify"> Contribuí no desenvolvimento de uma funcionalidade para a leitura de arquivos CSV, implementando um processo eficiente para extrair os dados contidos no arquivo e apresentá-los de forma clara e organizada na tela. A solução foi projetada para garantir que os dados fossem lidos corretamente, permitindo ao usuário visualizar as informações de maneira intuitiva e facilitar a interação com os dados através de uma interface visual amigável.</p>
+### 2. **Atuação como Master do Projeto**
+<p align="justify"> Atuei como master do projeto, exercendo um papel essencial na mediação entre o Product Owner (PO) e a equipe de desenvolvimento. Facilitei a comunicação entre as partes envolvidas, garantindo o alinhamento das expectativas e prioridades do produto. Também acompanhei de perto o progresso do time, ajudando na organização das tarefas e contribuindo tecnicamente sempre que necessário, promovendo um ambiente colaborativo e produtivo.</p>
 
-### 3. **Tratamento de erros**
-<p align="justify"> Contribuí ativamente no desenvolvimento dos tratamentos de erro da aplicação, implementando mecanismos que garantem uma resposta clara e informativa sempre que algo não funcionasse como esperado. A solução foi projetada para capturar falhas de forma eficiente e exibir mensagens de erro, indicando o que deu errado, permitindo ao usuário compreender o problema e tomar as ações necessárias para resolvê-lo.</p>
+### 3. **Resolução de Problemas e Correção de Bugs**
+<p align="justify"> Contribuí de forma ativa na identificação e resolução de problemas que surgiram durante o desenvolvimento do projeto. Trabalhei diretamente com a equipe para depurar e corrigir bugs, assegurando a estabilidade e o bom funcionamento da aplicação. Minha atuação foi fundamental para manter a fluidez do projeto e minimizar impactos negativos causados por falhas inesperadas.</p>
 
-### 4. **Build da aplicação**
-<p align="justify"> Contribuí ativamente no processo de construção da aplicação, empacotando-a em um arquivo .jar, facilitando sua execução e distribuição para os usuários. Através dessa abordagem, garanti que a aplicação fosse compilada de forma eficiente e estivesse pronta para uso imediato, proporcionando uma experiência mais prática e acessível para os usuários finais.</p>
+### 4. **Desenvolvimento de Queries Complexas com JPA**
+<p align="justify">Apoiei o desenvolvimento de queries complexas utilizando JPA (Java Persistence API), otimizando a extração e manipulação de dados a partir do banco de dados. As consultas foram desenvolvidas de forma eficiente e performática, atendendo a requisitos específicos do sistema e garantindo consistência nas informações retornadas.</p>
+
+### 5. **Desenvolvimento de Endpoints de Usuários e Locais Salvos**
+<p align="justify"> Participei ativamente na criação de endpoints RESTful voltados para o retorno de informações de usuários e de locais salvos. As implementações foram realizadas com foco em clareza, segurança e aderência às boas práticas, proporcionando uma base sólida para o consumo por parte do front-end e outros serviços da aplicação.</p>
+
 <br>
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o desenvolvimento da aplicação, atuei na modelagem do banco de dados, criando scripts otimizados para garantir eficiência e integridade das informações. Implementei uma funcionalidade para leitura de arquivos CSV, permitindo a extração e exibição clara dos dados ao usuário. Contribuí para o tratamento de erros, garantindo respostas informativas e permitindo ao usuário entender e corrigir falhas. Também participei do processo de build da aplicação, empacotando-a em um arquivo .jar para facilitar sua distribuição e uso. Esses conhecimentos garantiram uma aplicação eficiente, robusta e com boa experiência para o usuário.</p>
+<p align="justify">Durante o projeto, aprofundei meus conhecimentos em desenvolvimento back-end, modelagem de banco de dados e otimização de queries com JPA. Atuei como master do projeto, fortalecendo habilidades de liderança técnica e comunicação entre o PO e a equipe. Contribuí para a criação de endpoints RESTful e implementação de tratamentos de erro eficazes. Participei da resolução de bugs garantindo sua estabilidade. O projeto também me proporcionou experiência em organização de tarefas, integração entre sistemas e boas práticas de desenvolvimento. Essas vivências consolidaram minha capacidade de entregar soluções robustas, escaláveis e alinhadas aos requisitos de negócio.</p>
 
 </details>
