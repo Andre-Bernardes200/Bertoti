@@ -49,6 +49,68 @@
 </div>
 
 <br>
+<div align=center><h1>Aval360</h1></div>
+
+<h4> 1º Semestre • <a href="https://github.com/iNineBD/Aval360-1Sem2023">Repositório Github</a></h4>
+
+<p align="justify"> Empresa Parceira • <a href="https://fatecsjc-prd.azurewebsites.net">FATEC SJC</a></p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/8c7f97f8-d393-4fa2-a33f-b28cae9bc1a5" widht="20%"></img>
+
+<p align="justify">Desenvolvimento de uma aplicação tecnológica via linha de comando para uma Gestão Eficiente dos Trabalhos de Graduação, promovendo o acompanhamento estruturado e organizado por parte dos orientadores.</p>
+
+<details>
+
+  <summary align="center">VER MAIS DETALHES</summary>
+  
+  <h2>Objetivo</h2>
+
+#### Após a finalização do projeto pela equipe iNine:
+* O sistema poderá armazenará informações de alunos, orientadores e TGs;
+* O usuário conseguirá fazer o lançamento de notas de atividades;
+* O usuário conseguirá realizar a gestão de alunos, orientadores, TGs e entregas;
+* O usuário conseguirá gerar relatórios para acompanhamento de entregas, agendamento de bancas de defesa, fechamento de semestre e transporte de notas.
+
+<br>
+
+<h2>Tecnologias Utilizadas no Projeto</h2>
+<p align="justify"><strong>Java JDK 17.0.3:</strong> linguagem utilizada para desenvolvimento do backend.</p>
+<p align="justify"><strong>JavaFX SDK 17.0.8:</strong> linguagem utilizada para desenvolvimento do backend.</p>
+<p align="justify"><strong>Scene Builder:</strong> ferramenta utilizada para criação das telas.</p>
+<p align="justify"><strong>MySQL:</strong> SGBD para desenvolvimento do Banco de Dados.</p>
+<p align="justify"><strong>Eclipse:</strong> IDE utilizada para o desenvolvimento dos códigos da aplicação.</p>
+<p align="justify"><strong>ClickUp:</strong> ferramenta utilizada para o gerenciamento do projeto.</p>
+<p align="justify"><strong>Figma:</strong> ferramenta utilizada para prototipar as telas.</p>
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/scene_builder-orange.svg?style=for-the-badge&logo=&logoColor=orange">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+
+<br>
+
+<h2>Minhas Contribuições</h2>
+
+<p align="justify"> > Contribuí ativamente no desenvolvimento do back-end e na modelagem do banco de dados, focando na otimização de performance e eliminação de redundâncias. Participei da implementação do processo de leitura e armazenamento de dados a partir de arquivos CSV, além de criar tratamentos de erro. Também estive envolvido na construção da aplicação e na geração do arquivo JAR, garantindo a estabilidade e escalabilidade do sistema.</p>
+
+### 1. **Modelagem do Banco de dados**
+<p align="justify"> Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial.</p>
+
+### 2. **Leitura de um arquivo CSV**
+<p align="justify"> Contribuí no desenvolvimento de uma funcionalidade para a leitura de arquivos CSV, implementando um processo eficiente para extrair os dados contidos no arquivo e apresentá-los de forma clara e organizada na tela. A solução foi projetada para garantir que os dados fossem lidos corretamente, permitindo ao usuário visualizar as informações de maneira intuitiva e facilitar a interação com os dados através de uma interface visual amigável.</p>
+
+### 3. **Tratamento de erros**
+<p align="justify"> Contribuí ativamente no desenvolvimento dos tratamentos de erro da aplicação, implementando mecanismos que garantem uma resposta clara e informativa sempre que algo não funcionasse como esperado. A solução foi projetada para capturar falhas de forma eficiente e exibir mensagens de erro, indicando o que deu errado, permitindo ao usuário compreender o problema e tomar as ações necessárias para resolvê-lo.</p>
+
+### 4. **Build da aplicação**
+<p align="justify"> Contribuí ativamente no processo de construção da aplicação, empacotando-a em um arquivo .jar, facilitando sua execução e distribuição para os usuários. Através dessa abordagem, garanti que a aplicação fosse compilada de forma eficiente e estivesse pronta para uso imediato, proporcionando uma experiência mais prática e acessível para os usuários finais.</p>
+<br>
+<h2>Conhecimentos Obtidos</h2>
+<p align="justify">Durante o desenvolvimento da aplicação, atuei na modelagem do banco de dados, criando scripts otimizados para garantir eficiência e integridade das informações. Implementei uma funcionalidade para leitura de arquivos CSV, permitindo a extração e exibição clara dos dados ao usuário. Contribuí para o tratamento de erros, garantindo respostas informativas e permitindo ao usuário entender e corrigir falhas. Também participei do processo de build da aplicação, empacotando-a em um arquivo .jar para facilitar sua distribuição e uso. Esses conhecimentos garantiram uma aplicação eficiente, robusta e com boa experiência para o usuário.</p>
+
+</details>
 
 <div align=center><h1>Sistema Gerenciador de TGs</h1></div>
 
