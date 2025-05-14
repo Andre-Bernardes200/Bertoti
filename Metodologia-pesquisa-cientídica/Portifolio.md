@@ -413,8 +413,41 @@
 ### 5. **Desenvolvimento de Endpoints de Usuários e Locais Salvos**
 <p align="justify"> Participei ativamente na criação de endpoints RESTful voltados para o retorno de informações de usuários e de locais salvos. As implementações foram realizadas com foco em clareza, segurança e aderência às boas práticas, proporcionando uma base sólida para o consumo por parte do front-end e outros serviços da aplicação.</p>
 
+### 6. **Visão de Negócio**
+<p align="justify"> Durante o projeto, desenvolvi a capacidade de enxergar além da implementação técnica, compreendendo os objetivos estratégicos por trás das funcionalidades desenvolvidas. Busquei alinhar as decisões técnicas com as necessidades reais do cliente e do mercado, garantindo que cada entrega agregasse valor ao negócio como um todo. Essa visão me ajudou a priorizar tarefas com maior impacto e a propor soluções mais adequadas ao contexto do projeto.</p>
+
+### 7. **Flexibilidade**
+<p align="justify"> Fui capaz de lidar com alterações de escopo, mudanças de prioridades e novas demandas ao longo do projeto sem perder o foco na entrega. Essa flexibilidade me permitiu adaptar o planejamento e ajustar rotas quando necessário, sempre mantendo a qualidade e os prazos definidos. Trabalhar de forma flexível também foi essencial para colaborar com diferentes perfis da equipe e atender às expectativas do cliente.</p>
+
+### 8. **Capacidade de Adaptação**
+<p align="justify"> Diante de novos desafios, tecnologias e metodologias adotadas durante o projeto, demonstrei agilidade para me adaptar rapidamente e absorver os conhecimentos necessários. Essa habilidade foi fundamental para atuar em diferentes frentes e contribuir com soluções mesmo em cenários de incerteza, promovendo um fluxo de trabalho contínuo e eficiente.</p>
+
 <br>
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o projeto, aprofundei meus conhecimentos em desenvolvimento back-end, modelagem de banco de dados e otimização de queries com JPA. Atuei como master do projeto, fortalecendo habilidades de liderança técnica e comunicação entre o PO e a equipe. Contribuí para a criação de endpoints RESTful e implementação de tratamentos de erro eficazes. Participei da resolução de bugs garantindo sua estabilidade. O projeto também me proporcionou experiência em organização de tarefas, integração entre sistemas e boas práticas de desenvolvimento. Essas vivências consolidaram minha capacidade de entregar soluções robustas, escaláveis e alinhadas aos requisitos de negócio.</p>
+<p align="justify">
+
+- **Modelagem de Banco de Dados:**  
+  Aprofundei meus conhecimentos em modelagem conceitual e lógica, garantindo integridade referencial e performance no acesso aos dados.
+
+- **Atuação como Master do Projeto:**  
+  Desenvolvi habilidades de liderança, facilitando a comunicação entre PO e equipe, organizando tarefas e mantendo o foco nas entregas.
+
+- **Resolução de Problemas e Bugs:**  
+  Fortaleci minha capacidade de depuração e correção de falhas, assegurando a estabilidade da aplicação e a continuidade do projeto.
+
+- **Consultas com JPA:**  
+  Aprimorei o uso da JPA para construir queries complexas e performáticas, extraindo dados com precisão e eficiência.
+
+- **Criação de Endpoints RESTful:**  
+  Desenvolvi endpoints seguros e bem estruturados, seguindo boas práticas para facilitar a integração com o front-end.
+
+- **Visão de Negócio:**  
+  Passei a compreender melhor os impactos das decisões técnicas no valor entregue ao cliente, priorizando funcionalidades com foco estratégico.
+
+- **Flexibilidade:**  
+  Adaptei-me a mudanças de escopo e prioridades com agilidade, mantendo a qualidade das entregas mesmo em cenários dinâmicos.
+
+- **Capacidade de Adaptação:**  
+  Mostrei rapidez em aprender novas tecnologias e metodologias, contribuindo em diferentes frentes do projeto com segurança e eficiência.</p>
 
 </details>
