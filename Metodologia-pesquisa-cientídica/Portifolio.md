@@ -112,9 +112,26 @@
 
 ### 4. **Desenvolvimento de Dashboards**
 <p align="justify"> Auxiliei no desenvolvimento de dashboards interativos para visualização de dados relevantes do sistema. Os painéis foram projetados para facilitar o acompanhamento de indicadores, permitindo ao usuário final obter insights claros e tomar decisões baseadas em dados atualizados de maneira prática e visualmente acessível.</p>
+
+### 5. **Comunicação e Trabalho em Equipe**
+<p align="justify"> Durante o projeto, desenvolvi e aperfeiçoei habilidades de comunicação e trabalho em equipe, colaborando ativamente com os demais integrantes para garantir o alinhamento de ideias e a resolução de problemas. Participei de reuniões frequentes, contribuindo com sugestões, ouvindo feedbacks e promovendo um ambiente colaborativo e produtivo. Essa experiência reforçou a importância da escuta ativa, empatia e clareza na transmissão de informações para o sucesso coletivo do time.</p>
 <br>
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o desenvolvimento do projeto, adquiri conhecimentos sólidos na organização e manutenção do backlog, compreendendo melhor as práticas de planejamento ágil e priorização de tarefas. Aprimorei minhas habilidades no controle e gerenciamento de usuários e perfis, aplicando conceitos de segurança e usabilidade para garantir uma administração eficaz. Além disso, aprofundei meus conhecimentos no desenvolvimento de dashboards informativos e interativos, focando na visualização clara de dados e indicadores essenciais para a tomada de decisões estratégicas.</p>
+<p align="justify"> 
+
+- **Organização e manutenção do backlog:**  
+  Compreendi melhor as práticas ágeis ao participar ativamente do planejamento e da divisão de tarefas, o que ajudou na priorização eficiente das entregas.
+
+- **Controle e gerenciamento de usuários e perfis:**  
+  Aprimorei minhas habilidades ao implementar regras de acesso e segurança, essenciais para garantir uma administração eficaz e protegida.
+
+- **Desenvolvimento de dashboards:**  
+  Aprofundei meus conhecimentos ao transformar dados em visualizações claras e úteis, contribuindo para uma análise mais prática e estratégica por parte dos usuários.
+
+- **Desenvolvimento de dashboards:**  
+  Ao longo do projeto, refinei minha comunicação interpessoal, aprendendo a escutar ativamente e colaborar de forma construtiva com colegas, o que fortaleceu o trabalho em equipe e a resolução de problemas em grupo.
+  
+  </p>
 
 </details>
 
