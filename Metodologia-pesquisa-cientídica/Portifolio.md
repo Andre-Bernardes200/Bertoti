@@ -192,9 +192,35 @@
 
 ### 4. **Build da aplicação**
 <p align="justify"> Contribuí ativamente no processo de construção da aplicação, empacotando-a em um arquivo .jar, facilitando sua execução e distribuição para os usuários. Através dessa abordagem, garanti que a aplicação fosse compilada de forma eficiente e estivesse pronta para uso imediato, proporcionando uma experiência mais prática e acessível para os usuários finais.</p>
+
+### 5. **Trabalho como Master do Projeto**
+<p align="justify"> Assumi a responsabilidade de master do projeto, garantindo a fluidez e a organização do processo de desenvolvimento. Isso envolveu a definição das prioridades, a coordenação das atividades da equipe e a manutenção de um ambiente de trabalho produtivo. Trabalhei para alinhar as expectativas e garantir que todos estivessem cientes de suas responsabilidades, ajudando a equipe a focar nas entregas de forma eficiente e eficaz, sempre respeitando os prazos estabelecidos</p>
+
+### 6. **Comunicação e Acompanhamento da Equipe**
+<p align="justify"> Durante o projeto, aprimorei minhas habilidades de comunicação e acompanhamento de equipe, fundamentais para o progresso contínuo. Participei ativamente de reuniões de status e check-ins regulares, ajudando a alinhar as expectativas e o progresso das tarefas. Além disso, foquei em manter um fluxo constante de feedbacks construtivos e promover um ambiente de trabalho aberto e colaborativo, o que possibilitou a resolução ágil de problemas e garantiu que a equipe estivesse sempre bem informada e motivada para atingir os objetivos do projeto.</p>
+
 <br>
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o desenvolvimento da aplicação, atuei na modelagem do banco de dados, criando scripts otimizados para garantir eficiência e integridade das informações. Implementei uma funcionalidade para leitura de arquivos CSV, permitindo a extração e exibição clara dos dados ao usuário. Contribuí para o tratamento de erros, garantindo respostas informativas e permitindo ao usuário entender e corrigir falhas. Também participei do processo de build da aplicação, empacotando-a em um arquivo .jar para facilitar sua distribuição e uso. Esses conhecimentos garantiram uma aplicação eficiente, robusta e com boa experiência para o usuário.</p>
+<p align="justify">
+
+- **Modelagem de Banco de Dados:**  
+  Compreendi a importância de uma estrutura bem planejada para garantir integridade, performance e escalabilidade. Aprender a eliminar redundâncias e definir relacionamentos sólidos foi essencial para a eficiência do sistema e da análise de dados.
+
+- **Leitura e Manipulação de Arquivos CSV:**  
+  Desenvolvi a habilidade de lidar com dados externos de forma prática e eficiente. Essa funcionalidade é fundamental em aplicações que precisam importar dados de outras fontes e oferecê-los ao usuário de maneira compreensível.
+
+- **Tratamento de Erros:**  
+  Aprendi a implementar respostas claras e informativas para falhas do sistema, o que é crucial para melhorar a experiência do usuário e facilitar a identificação e correção de problemas técnicos.
+
+- **Build da Aplicação (.jar):**  
+  Adquiri conhecimentos sobre empacotamento e distribuição de aplicações, o que é vital para garantir que o sistema possa ser facilmente executado em diferentes ambientes, sem complicações para o usuário final.
+
+- **Atuação como Master do Projeto:**  
+  Desenvolvi habilidades de liderança e organização, aprendendo a definir prioridades, coordenar a equipe e garantir que os processos fossem cumpridos dentro dos prazos. Essa experiência foi fundamental para entender o papel de facilitador dentro de metodologias ágeis.
+
+- **Comunicação e Acompanhamento de Equipe:**  
+  Aprofundei minha capacidade de comunicação interpessoal, escuta ativa e promoção de um ambiente colaborativo. Esse aprendizado foi essencial para manter o alinhamento das tarefas e garantir a produtividade e o engajamento do time ao longo do projeto.
+</p>
 
 </details>
 <br>
