@@ -296,9 +296,43 @@
 
 ### 5. **Desenvolvimento da funcionalidade de carregar arquivo direto na etapa Silver**
 <p align="justify"> Contribuí significativamente para o desenvolvimento da etapa de importação de arquivos na fase Silver, criando um método que processava as informações contidas em arquivos nos formatos CSV ou XLS. O método era responsável por importar e processar os dados, enviando-os ao front-end para que fossem exibidos de forma clara e organizada, facilitando a visualização e interação do usuário com as informações.</p>
+
+### 6. **Resiliência**
+<p align="justify"> Ao longo do projeto, exercitei a resiliência ao lidar com prazos apertados, ajustes de escopo e imprevistos técnicos. Mantive o foco e a motivação mesmo diante de desafios, buscando soluções práticas e mantendo o progresso contínuo das entregas. Essa postura foi essencial para garantir a consistência e a qualidade do trabalho, mesmo em cenários de pressão.</p>
+
+### 7. **Inteligência Emocional**
+<p align="justify"> Desenvolvi a capacidade de gerenciar emoções em situações complexas e estressantes, mantendo uma postura equilibrada e profissional. Essa habilidade me permitiu tomar decisões com mais clareza, lidar melhor com feedbacks e contribuir para um ambiente mais estável e colaborativo dentro da equipe.</p>
+
+### 8. **Empatia**
+<p align="justify"> Pratiquei a empatia no dia a dia do projeto, compreendendo as dificuldades e necessidades dos colegas de equipe. Isso me permitiu adaptar a comunicação, oferecer apoio quando necessário e fortalecer os relacionamentos profissionais, promovendo uma cultura de respeito, colaboração e confiança mútua.</p>
 <br>
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o projeto, adquiri conhecimentos em modelagem de banco de dados, com foco na normalização e no armazenamento eficiente de dados, incluindo a integração de arquivos CSV e XLS. Contribuí para a criação de funcionalidades que permitiram validar ou rejeitar etapas anteriores, garantindo controle e qualidade no processo. Também desenvolvi o CRUD completo nas etapas Bronze e Silver, permitindo a criação de hashes e DExPARAs, além de operações de edição, exclusão e visualização. Aprimorei meu domínio do Spring Boot, implementando funcionalidades robustas e escaláveis, e apliquei a metodologia MVC para organizar a estrutura do projeto, separando de maneira eficiente as responsabilidades de modelo, visão e controle. Além disso, criei métodos para importar arquivos CSV e XLS, processando suas informações e exibindo-as de forma organizada no front-end para visualização do usuário.</p>
+<p align="justify">
+
+- **Modelagem de Banco de Dados e Armazenamento de Dados via Arquivo:**  
+  Aprendi a modelar bancos de dados normalizados e eficientes, além de implementar o armazenamento de dados vindos de arquivos CSV/XLS. Essa prática reforçou a importância da estruturação correta dos dados para garantir integridade e performance.
+
+- **Validação de Etapas e Feedback do Cliente:**  
+  Compreendi o valor de incluir o cliente no processo de validação, criando mecanismos para aceitar ou rejeitar entregas com justificativas. Isso trouxe mais controle e transparência ao ciclo de desenvolvimento.
+
+- **Implementação da Etapa Bronze:**  
+  Aprendi a desenvolver um CRUD completo com geração de hash e seleção de metadados, reforçando a importância de garantir unicidade e flexibilidade no gerenciamento de dados.
+
+- **Implementação da Etapa Silver:**  
+  Fortaleci minha capacidade de criar interfaces dinâmicas e interativas, integrando funcionalidades que possibilitam ao cliente configurar o DExPARA e gerenciar os dados com autonomia.
+
+- **Importação de Arquivos na Etapa Silver:**  
+  Aprendi a lidar com diferentes formatos de entrada (CSV/XLS) e a transformá-los em dados organizados no front-end. Isso ampliou minha visão sobre como tornar sistemas mais acessíveis e integráveis.
+
+- **Resiliência:**  
+  Exercitei a capacidade de seguir focado mesmo diante de imprevistos, mudanças de escopo e desafios técnicos. Essa habilidade foi essencial para manter o ritmo de entrega e a motivação, mesmo em cenários de pressão.
+
+- **Inteligência Emocional:**  
+  Desenvolvi maior controle sobre minhas emoções e reações durante o projeto, conseguindo lidar melhor com momentos de estresse, conflitos e feedbacks. Isso me ajudou a tomar decisões mais conscientes e equilibradas.
+
+- **Empatia:**  
+  Pratiquei a escuta ativa e a compreensão das dificuldades dos colegas, ajustando minha comunicação para promover um ambiente de trabalho mais colaborativo, respeitoso e eficiente.
+</p>
 
 </details>
 
