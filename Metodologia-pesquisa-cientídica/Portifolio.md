@@ -95,27 +95,26 @@
 <img src="https://img.shields.io/badge/Monday.com-FF7552?style=for-the-badge&logo=monday.com&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
-
 <br>
 
 <h2>Minhas Contribuições</h2>
 
-<p align="justify"> > Contribuí ativamente no desenvolvimento do back-end e na modelagem do banco de dados, focando na otimização de performance e eliminação de redundâncias. Participei da implementação do processo de leitura e armazenamento de dados a partir de arquivos CSV, além de criar tratamentos de erro. Também estive envolvido na construção da aplicação e na geração do arquivo JAR, garantindo a estabilidade e escalabilidade do sistema.</p>
+<p align="justify"> > Contribuí ativamente no desenvolvimento do backlog do projeto, desempenhando um papel fundamental na organização e priorização das demandas junto à equipe. Atuei diretamente no controle das sprints, garantindo o acompanhamento contínuo das entregas. Além disso, participei da implementação de funcionalidades voltadas ao controle de perfis de usuários, assegurando níveis de acesso adequados, e colaborei no desenvolvimento de dashboards, proporcionando uma visualização clara e estratégica dos dados do sistema.</p>
 
-### 1. **Modelagem do Banco de dados**
-<p align="justify"> Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial.</p>
+### 1. **Desenvolvimento do Backlog**
+<p align="justify"> Atuei ativamente na construção e organização do backlog do projeto, estruturando as tarefas de acordo com os requisitos funcionais e técnicos levantados com a equipe. Essa atividade foi essencial para o planejamento das entregas e priorização de funcionalidades, promovendo maior clareza no fluxo de trabalho e alinhamento entre os membros do time.</p>
 
-### 2. **Leitura de um arquivo CSV**
-<p align="justify"> Contribuí no desenvolvimento de uma funcionalidade para a leitura de arquivos CSV, implementando um processo eficiente para extrair os dados contidos no arquivo e apresentá-los de forma clara e organizada na tela. A solução foi projetada para garantir que os dados fossem lidos corretamente, permitindo ao usuário visualizar as informações de maneira intuitiva e facilitar a interação com os dados através de uma interface visual amigável.</p>
+### 2. **Controle de Usuários**
+<p align="justify"> Participei do desenvolvimento das funcionalidades relacionadas ao controle de usuários dentro do sistema, permitindo o cadastro, edição e gerenciamento das contas de forma segura e eficiente. As soluções desenvolvidas visaram garantir uma navegação fluida, respeitando os critérios de usabilidade e proteção de dados pessoais.</p>
 
-### 3. **Tratamento de erros**
-<p align="justify"> Contribuí ativamente no desenvolvimento dos tratamentos de erro da aplicação, implementando mecanismos que garantem uma resposta clara e informativa sempre que algo não funcionasse como esperado. A solução foi projetada para capturar falhas de forma eficiente e exibir mensagens de erro, indicando o que deu errado, permitindo ao usuário compreender o problema e tomar as ações necessárias para resolvê-lo.</p>
+### 3. **Gerenciamento de Perfis**
+<p align="justify"> Contribuí na implementação de mecanismos de controle de perfis, definindo níveis distintos de acesso conforme os papéis dos usuários no sistema. Essa abordagem permitiu uma administração mais segura e estruturada, assegurando que cada usuário tivesse permissão apenas para as funcionalidades relevantes às suas responsabilidades.</p>
 
-### 4. **Build da aplicação**
-<p align="justify"> Contribuí ativamente no processo de construção da aplicação, empacotando-a em um arquivo .jar, facilitando sua execução e distribuição para os usuários. Através dessa abordagem, garanti que a aplicação fosse compilada de forma eficiente e estivesse pronta para uso imediato, proporcionando uma experiência mais prática e acessível para os usuários finais.</p>
+### 4. **Desenvolvimento de Dashboards**
+<p align="justify"> Auxiliei no desenvolvimento de dashboards interativos para visualização de dados relevantes do sistema. Os painéis foram projetados para facilitar o acompanhamento de indicadores, permitindo ao usuário final obter insights claros e tomar decisões baseadas em dados atualizados de maneira prática e visualmente acessível.</p>
 <br>
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o desenvolvimento da aplicação, atuei na modelagem do banco de dados, criando scripts otimizados para garantir eficiência e integridade das informações. Implementei uma funcionalidade para leitura de arquivos CSV, permitindo a extração e exibição clara dos dados ao usuário. Contribuí para o tratamento de erros, garantindo respostas informativas e permitindo ao usuário entender e corrigir falhas. Também participei do processo de build da aplicação, empacotando-a em um arquivo .jar para facilitar sua distribuição e uso. Esses conhecimentos garantiram uma aplicação eficiente, robusta e com boa experiência para o usuário.</p>
+<p align="justify">Durante o desenvolvimento do projeto, adquiri conhecimentos sólidos na organização e manutenção do backlog, compreendendo melhor as práticas de planejamento ágil e priorização de tarefas. Aprimorei minhas habilidades no controle e gerenciamento de usuários e perfis, aplicando conceitos de segurança e usabilidade para garantir uma administração eficaz. Além disso, aprofundei meus conhecimentos no desenvolvimento de dashboards informativos e interativos, focando na visualização clara de dados e indicadores essenciais para a tomada de decisões estratégicas.</p>
 
 </details>
 
